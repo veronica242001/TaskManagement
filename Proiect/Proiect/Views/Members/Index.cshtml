@@ -1,0 +1,55 @@
+﻿
+@{
+
+}
+
+<h2>Index</h2>
+
+@foreach (var member in ViewBag.Members)
+{
+    if (@member.TeamId == @ViewBag.Id)
+    {<div class="panel panel-default">
+            <div class="panel-heading">
+                @member.User.UserName
+
+                <div style="display: inline-block; float : left">
+                    <form method="post" action="/Members/Delete/@member.MemberId">
+                        @Html.HttpMethodOverride(HttpVerbs.Delete)
+                        <button class="glyphicon glyphicon-trash" style="border: none; background: transparent" type="submit"></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+}
+@if (ViewBag.afisareButoane == true && ViewBag.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+{  <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+                <div class="panel">
+                    @*using (Html.BeginForm(actionName: "Index", controllerName: "Members"))*@
+                    <form method="post" action="/Members/Index/@ViewBag.Id">
+
+                        <br />
+                        <label>Selectati User</label>
+                        <input type="hidden" name="TeamId" value="@ViewBag.Id" />
+
+                        @Html.DropDownList("UserId", new SelectList(ViewBag.UserList, "Value", "Text"),
+         "Selectati Membru", new { @class = "form-control" })
+                        @Html.ValidationMessage("UserId", null, new { @class = "text-danger" })
+                        <br />
+
+
+                        <br />
+                        <button class="btn btn-sm btn-success" type="submit">Adauga Membru</button>
+
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+
+}

@@ -1,0 +1,130 @@
+﻿@model Task_Management.Models.Project
+<br />
+@if (TempData.ContainsKey("message"))
+{
+    <h1>@ViewBag.message</h1>
+}
+<br /> <br />
+<br />
+<a type="button" class="btn btn-info" href="/Projects/Index">Inapoi la proiecte</a>
+<br /> <br />
+
+<div class="panel panel-default">
+    <div class="panel-heading ">
+        <h2>@Model.Name</h2>
+    </div>
+    <div class="panel-body">
+        @if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+        {<a class="btn btn-default pull-left" href="/Projects/Edit/@Model.ProjectId">Modifica proiect</a>
+
+            <form method="post" action="/Projects/Delete/@Model.ProjectId">
+                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                <button class="btn btn-default pull-right" type="submit">   Sterge proiect                </button>
+            </form>
+        }
+        <br /><br /><br />
+        <p><strong> Informatii despre proiect:</strong> @Model.Content </p>
+        <!-- DATA!!-->
+        <br />
+        <p>
+            <i class="glyphicon glyphicon-user"></i> <strong> Proiect creat de:</strong>@Model.User.UserName
+        </p>
+        <br />
+        <p><strong>Echipa responsabila: </strong>@Model.Team.Name</p>
+
+        @foreach (var member in Model.Team.Members)
+        {
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
+
+
+
+
+                        @*daca este organizatorul care a creat proiectul*@
+                        @if (Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+                        {
+
+                            <div style="display: inline-block; float : left; margin-left:35%">
+
+                                <form method="post" action="/Members/Delete/@member.MemberId">
+                                    @Html.HttpMethodOverride(HttpVerbs.Delete)
+
+                                    <button class="glyphicon glyphicon-fire" style="border: none; background: transparent" type="submit"></button>
+                                </form>
+                            </div>
+                        }
+                        <div>
+                            <p style=" text-align:center;">@member.User.Email</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        }
+        @if (Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+        {
+            <div class="container membru-nou">
+                <div class="row">
+                    <div class="col-md-2">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="panel ">
+
+                            <form method="post" action="/Projects/Show/@Model.ProjectId">
+                                <div class="panel-body">
+                                    <input type="hidden" name="TeamId" value="@Model.TeamId" />
+                                    <p><label>Selectati Membru</label> </p>
+                                    @Html.DropDownListFor(m => m.UserId, new SelectList(ViewBag.UserList, "Value", "Text"),
+                                          "Selectati Membru", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.UserId, null, new { @class = "text-danger" })
+                                    <br />
+                                    <button class="btn btn-danger" type="submit">Adauga Membru</button>
+                                    <br />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        }
+
+        @if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin)
+        {<a class="btn btn-info  btn-lg btn-block" href="/Tasks/New/@Model.ProjectId">Adauga task</a>
+        }
+
+
+
+    </div>
+</div>
+
+@if (@Model.Tasks.Count == 0)
+{
+    <h3>Nu exista taskuri asignate la aceast proiect</h3>
+}
+else
+{ <h3>Taskurile sunt:</h3><br />
+<div class="container">
+    <div class="row">
+        @foreach (var task in @Model.Tasks)
+        {
+            if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin || ViewBag.Membru == true)
+
+            {
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading"><h3 >@task.Title</h3></div>
+
+                        <div class="panel panel-footer">
+                            <a class="btn btn-default" style="width:100%" href="/Tasks/Show/@task.TaskId">Afisare detalii despre task</a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        }
+    </div>
+</div>}

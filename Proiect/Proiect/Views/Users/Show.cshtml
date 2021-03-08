@@ -1,0 +1,41 @@
+﻿@model Proiect.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Detalii utilizator";
+}
+<br /> <br />
+<a type="button" class="btn btn-info" href="/Users/Index/">Inapoi la utilizatori</a>
+
+<br /><br />
+
+
+
+    <h2>@ViewBag.Title</h2>
+
+
+<div class="panel">
+    <div class="panel-heading">Nume utilizator: @Model.UserName</div>
+
+    <div class="panel-body">
+
+        <i class="glyphicon glyphicon-envelope"></i> Email utilizator: <span class="label label-default">@Model.Email</span>
+        <br />
+        <i class="glyphicon glyphicon-th-list"></i> Rol utilizator: @ViewBag.roleName
+
+
+
+    </div>
+    @*se pune conditia pentru a nu sterge adminul*@
+    @if ((string)Model.Id != ViewBag.utilizatorCurent)
+    {
+        <div class="panel-footer">
+            @using (Html.BeginForm(actionName: "Delete", controllerName: "Users", routeValues: new { id = @Model.Id }))
+            {
+                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                <br />
+                <button class="btn btn-danger" type="submit">Sterge utilizator</button>
+
+            }
+        </div>
+    }
+</div>

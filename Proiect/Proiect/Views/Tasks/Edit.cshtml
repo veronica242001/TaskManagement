@@ -1,0 +1,73 @@
+﻿@using Task_Management.Models
+@model Task
+    <br />
+<h2>Editare informatii task</h2>
+<br />
+<div class="edit-proiect">
+    @using (Html.BeginForm(actionName: "Edit", controllerName: "Tasks"))
+    {
+        if (ViewBag.esteAdmin || Model.Project.UserId == ViewBag.utilizatorCurent)
+        {
+
+            @Html.HttpMethodOverride(HttpVerbs.Put)
+
+            @Html.HiddenFor(m => m.ProjectId)
+
+            <br />
+            <h4> @Html.Label("Title", "Nume task")</h4>
+
+            @Html.Editor("Title")  <br />
+            @Html.ValidationMessageFor(m => m.Title, "", new { @class = "text-danger" })
+            <br />
+
+            <h4>@Html.Label("Content", "Descriere task")</h4>
+             
+            @Html.EditorFor(m => m.Content)  <br />
+            @Html.ValidationMessageFor(m => m.Content, "", new { @class = "text-danger" })
+            <br />
+
+            <h4><label>Selectati statusul</label></h4>
+            @Html.DropDownListFor(m => m.Status, new SelectList(Enum.GetValues(typeof(Stat))), new { @class = "form-control" }) <br />
+            @Html.ValidationMessageFor(m => m.Status, "", new { @class = "text-danger" })
+
+            <h4>@Html.Label("DataStart", "Data de inceput(mm/dd/yyyy)")</h4>
+
+            @Html.EditorFor(m => m.DateStart, "DateTime") <br />
+            @Html.ValidationMessageFor(m => m.DateStart, "", new { @class = "text-danger" })
+
+
+            <h4>@Html.Label("DataFinish", "Data de final(mm/dd/yyyy)")</h4>
+
+            @Html.EditorFor(m => m.DateFinish, "DateTime") <br />
+            @Html.ValidationMessageFor(m => m.DateFinish, "", new { @class = "text-danger" })
+            <h4>@Html.Label("MemberId", "Asigneaza Membru")</h4>
+
+            @Html.DropDownListFor(m => m.MemberId, new SelectList(Model.Members, "Value", "Text"), "Selectati Membru", new { @class = "form-control" })
+            <br />
+            <button class="btn btn-danger" type="submit">Modifica task</button>
+        }
+        else
+        {
+
+            @Html.HttpMethodOverride(HttpVerbs.Put)
+
+            @Html.HiddenFor(m => m.ProjectId)
+            @Html.HiddenFor(m => m.Title)
+            @Html.HiddenFor(m => m.Content)
+            @Html.HiddenFor(m => m.DateStart) 
+            @Html.HiddenFor(m => m.DateFinish)
+         
+            @Html.HiddenFor(m => m.MemberId)<br />
+
+            <h4> <label>Selectati statusul</label></h4>
+            @Html.DropDownListFor(m => m.Status, new SelectList(Enum.GetValues(typeof(Stat))), new { @class = "form-control" }) <br />
+            @Html.ValidationMessageFor(m => m.Status, "", new { @class = "text-danger" })
+            <br />
+            <button class="btn btn-default" type="submit">Modifica task</button>
+
+        }
+    }
+
+    <br /><br />
+</div>
+<br /><br />

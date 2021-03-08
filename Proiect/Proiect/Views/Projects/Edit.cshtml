@@ -1,0 +1,36 @@
+﻿@model Task_Management.Models.Project
+<h2>Modifica proiect</h2>
+<br />
+<div class="edit-proiect">
+    @using (Html.BeginForm(actionName: "Edit", controllerName: "Projects"))
+    {
+        @Html.HttpMethodOverride(HttpVerbs.Put)
+
+        @Html.HiddenFor(m => m.ProjectId)
+        <br />
+        @Html.Label("Name", "Nume Proiect")
+        <br />
+        @Html.Editor("Name")<br />
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+        <br />
+
+        @Html.Label("Content", "Descriere Proiect")
+        <br />
+        @Html.EditorFor(m => m.Content)<br />
+        @Html.ValidationMessageFor(m => m.Content, "", new { @class = "text-danger" })
+        
+
+        @*Html.HiddenFor(m => m.Date)*@
+        <br />
+
+        <label>Selectati Echipa </label>
+        @Html.DropDownListFor(m => m.TeamId,
+            new SelectList(Model.Teamm, "Value", "Text"),
+            "Selectati Echipa", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.TeamId, "", new { @class = "text-danger" })
+        <br /><br />
+
+        <button class="btn btn-sm btn-default" type="submit">Modifica proiect</button>
+        <br /><br />
+    }
+</div>

@@ -1,0 +1,37 @@
+﻿@model Task_Management.Models.Project
+<br />
+<h2>Adauga proiect nou</h2>
+<br />
+<div class="edit-proiect">
+    @using (Html.BeginForm(actionName: "New", controllerName: "Projects"))
+    {
+
+        @Html.HiddenFor(m => m.UserId)
+
+        <h4>@Html.Label("Name", "Nume Proiect")</h4>
+
+        @Html.TextBox("Name", null, new { @class = "form-control" })
+
+        @Html.ValidationMessageFor(m => m.Name, null, new { @class = "text-danger" })
+        <br />
+
+        <h4> @Html.Label("Content", "Descriere proiect")</h4>
+
+        @Html.TextArea("Content", null, new { @class = "form-control" })
+        @Html.ValidationMessage("Content", null, new { @class = "text-danger" })
+        <br />
+
+        <h4><label>Selectati Echipa</label></h4>
+        @Html.DropDownListFor(m => m.TeamId, new SelectList(Model.Teamm, "Value", "Text"),
+        "Selectati Echipa", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.TeamId, "", new { @class = "text-danger" })
+        <br />
+        <br />
+        <button class="btn btn-danger" type="submit">Adauga Proiect</button>
+        <br /> <br />
+    }
+</div>
+    
+
+
+

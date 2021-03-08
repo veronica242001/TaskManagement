@@ -1,0 +1,24 @@
+﻿@model Task_Management.Models.Team
+<h2>Modifica echipa</h2> <br />
+<div class="edit-proiect">
+    <form method="post" action="/Teams/Edit/@Model.TeamId">
+        @Html.HttpMethodOverride(HttpVerbs.Put)
+        @Html.Hidden("TeamId")
+        <br />
+        @Html.Label("Name", "Numele echipa")
+        <br />
+        @Html.Editor("Name")<br />
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+        <br /> 
+
+
+        @Html.Label("Content", "Descriere echipa")
+        <br />
+        @Html.EditorFor(m => m.Content)<br />
+        @Html.ValidationMessageFor(m => m.Content, "", new { @class = "text-danger" })
+        <br /> <br />
+
+        <button type="submit" class="btn btn-default"> Modifica echipa</button>
+        <br /> <br />
+    </form>
+</div>

@@ -1,0 +1,46 @@
+﻿@model Task_Management.Models.Team
+
+
+<a class=" btn btn-info" href="/Teams/Index">Inapoi la echipe</a>
+<br />  <br />
+
+<div class="panel panel-default">
+    <div class="panel-heading"><h3>@Model.Name</h3></div>
+    <div class="panel-body">
+        <p><strong> Informatii despre echipa:</strong>@Model.Content</p>
+        <br /> <br /> <br />
+        @if (ViewBag.esteAdmin)
+        {
+            <a class="btn btn-default pull-left"
+               href="/Teams/Edit/@Model.TeamId">Modifica echipa</a>
+            <form method="post" action="/Teams/Delete/@Model.TeamId">
+                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                <button class="btn btn-danger pull-right" type="submit">
+                    Sterge echipa
+                </button>
+            </form>
+        }
+    </div>
+</div>
+<br />
+@if (ViewBag.Tasks.Count ==0)
+{
+    <h2>Nu exista taskuri asignate la aceasta echipa </h2>
+}
+else
+{ <h2>Taskurile sunt:</h2>
+    <div class="container">
+        <div class="row">
+            <div class="panel-heading">
+
+                @foreach (var task in ViewBag.Tasks)
+                {<div class="col-md-4">
+                        <div class="panel panel-default" style=" box-shadow: 0 0 11px black;">
+                            <h2> @task.Title</h2>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>}

@@ -1,0 +1,51 @@
+﻿@using Task_Management.Models
+@model Task
+<br />
+<h2>Adauga task nou</h2>
+<br />
+<div class="edit-proiect">
+    @using (Html.BeginForm(actionName: "New", controllerName: "Tasks"))
+    {
+        @Html.HiddenFor(m => m.ProjectId, @Model.ProjectId)
+        <h4>@Html.Label("Title", "Titlu task")</h4>
+
+        @Html.TextBox("Title", null, new { @class = "form-control" })
+
+        @Html.ValidationMessageFor(m => m.Title, null, new { @class = "text-danger" })
+
+
+        <h4>@Html.Label("Content", "Continut task")</h4>
+
+        @Html.TextArea("Content", null, new { @class = "form-control" })
+        @Html.ValidationMessage("Content", null, new { @class = "text-danger" })
+
+
+        <h4><label>Selectati statusul</label></h4>
+        @Html.DropDownListFor(m => m.Status, new SelectList(Enum.GetValues(typeof(Stat))),
+        "Selectati statusul", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Status, "", new { @class = "text-danger" })
+
+
+        <h4> @Html.Label("DataStart", "Data de inceput")</h4>
+
+        @Html.TextBoxFor(m => m.DateStart, new { type = "date" })<br />
+        @Html.ValidationMessageFor(m => m.DateStart, "", new { @class = "text-danger" })
+
+        <h4> @Html.Label("DataFinish", "Data de final")</h4>
+
+        @Html.TextBoxFor(m => m.DateFinish, new { type = "date" })<br />
+        @Html.ValidationMessageFor(m => m.DateFinish, "", new { @class = "text-danger" })
+
+        <h4> @Html.Label("MemberId", "Asigneaza Membru")</h4>
+
+        @Html.DropDownListFor(m => m.MemberId, new SelectList(Model.Members, "Value", "Text"),
+                                             "Selectati Membru", new { @class = "form-control" })
+       
+        @*Html.ValidationMessageFor(m => m.MemberId, null, new { @class = "text-danger" }) *@
+        <br />
+        <button class="btn btn-default" type="submit">Adauga task</button>
+        <br /><br />
+    }
+</div>
+
+

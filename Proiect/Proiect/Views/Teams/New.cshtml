@@ -1,0 +1,27 @@
+﻿@model Task_Management.Models.Team
+<br />
+<h2>Adauga echipa noua</h2>
+
+<br />
+<div class="edit-proiect">
+    @using (Html.BeginForm(actionName: "New", controllerName: "Teams"))
+    {
+
+
+        <h4>@Html.Label("Name", "Nume Echipa")</h4>
+        @Html.TextBox("Name", null, new { @class = "form-control" })<br />
+
+        @Html.ValidationMessageFor(m => m.Name, null, new { @class = "text-danger" })
+
+        <h4> @Html.Label("Content", "Descriere echipa")</h4>
+
+        @Html.TextArea("Content", null, new { @class = "form-control" })<br />
+        @Html.ValidationMessage("Content", null, new { @class = "text-danger" })
+        <br />
+        <br />
+        <button class="btn btn-default" type="submit">Adauga Echipa</button>
+        <br /> <br />
+    }
+</div>
+
+

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<br /><br /><br />
+<div class="butoane-centru">
+    <a type="button" class="btn btn-info pull-left " href="/Teams/Index">Afisare echipe</a>
+    <a type="button" class="btn btn-info pull-right " href="/Tasks/Index">Afiseaza lista task</a>
+</div>
+<br />
+<h2>Lista proiecte</h2>
+<br />
+@foreach (var project in ViewBag.Projects)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading"><h3>@project.Name</h3></div>
+
+
+
+        <div class="panel panel-footer">
+            <a class="btn btn-default btn-lg btn-block" href="/Projects/Show/@project.ProjectId">Afisare detalii proiect</a>
+        </div>
+    </div>
+
+}
+
+<nav aria-label="Page navigation">
+    <ul class="pagination">
+        <li>
+            <a href="/Projects/Index?page=1" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+
+        @for (int i = 1; i <= ViewBag.lastPage; i++)
+        {
+            <li><a href="/Projects/Index?page=@i">@(i)</a></li>
+        }
+
+        <li>
+            <a href="/Projects/Index?page=@(ViewBag.lastPage)" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+

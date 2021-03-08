@@ -1,0 +1,23 @@
+﻿@model Proiect.Models.Member
+@*
+@using (Html.BeginForm(actionName: "New", controllerName: "Members"))
+{
+   <label>Selectati Echipa</label>
+    @Html.DropDownListFor(m => m.TeamId, new SelectList(Model.Teamm, "Value", "Text"),
+    "Selectati Echipa", new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.TeamId, "", new { @class = "text-danger" })
+    <br />
+    <label>Selectati Membru</label>
+    @Html.DropDownListFor(m => m.UserId, new SelectList(Model.Userr , "Value", "Text"),
+    "Selectati Membru", new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.UserId, "", new { @class = "text-danger" })
+    <br />
+
+ <br />
+    <button class="btn btn-sm btn-success" type="submit">Adauga Membru</button>
+
+} 
+    *@
+
+
+

@@ -1,0 +1,642 @@
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Proiect.dll.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Proiect.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Proiect.pdb
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\csc.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\csc.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\csc.rsp
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\csi.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\csi.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\csi.rsp
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.AppContext.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Console.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.Claims.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\vbc.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\vbc.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\vbc.rsp
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Antlr3.Runtime.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\EntityFramework.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\EntityFramework.SqlServer.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Newtonsoft.Json.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Owin.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Helpers.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Mvc.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Optimization.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Razor.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.WebPages.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\WebGrease.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Helpers.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Mvc.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Optimization.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.Razor.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.WebPages.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Newtonsoft.Json.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Antlr3.Runtime.pdb
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\EntityFramework.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\EntityFramework.SqlServer.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.Migrations.InitialMigration.resources
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Proiect.dll.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Proiect.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Proiect.pdb
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\csc.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\csc.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\csc.rsp
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\csi.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\csi.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\csi.rsp
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.AppContext.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Console.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.Claims.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\vbc.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\vbc.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\vbc.rsp
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Antlr3.Runtime.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\EntityFramework.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\EntityFramework.SqlServer.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Newtonsoft.Json.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Owin.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Helpers.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Mvc.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Optimization.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Razor.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.WebPages.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\WebGrease.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Helpers.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Mvc.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Optimization.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.Razor.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.WebPages.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Newtonsoft.Json.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Antlr3.Runtime.pdb
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\EntityFramework.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\EntityFramework.SqlServer.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.dll
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.Migrations.Initial.resources
+C:\Users\Veronica\Documents\cursuriFMI\Anul II\DAW\Proiect2\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Proiect.dll.config
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Proiect.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Proiect.pdb
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\csc.exe
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\csc.exe.config
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\csc.rsp
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\csi.exe
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\csi.exe.config
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\csi.rsp
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.AppContext.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Console.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\vbc.exe
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\vbc.exe.config
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\vbc.rsp
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Antlr3.Runtime.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\EntityFramework.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\EntityFramework.SqlServer.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Newtonsoft.Json.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Owin.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Helpers.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Mvc.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Optimization.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Razor.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.WebPages.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\WebGrease.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Helpers.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Mvc.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Optimization.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.Razor.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.WebPages.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Newtonsoft.Json.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Antlr3.Runtime.pdb
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\EntityFramework.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\EntityFramework.SqlServer.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.Migrations.Initial.resources
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.dll
+C:\Users\Stefania\Downloads\Proiect\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Proiect.dll.config
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Proiect.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Proiect.pdb
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\csc.exe
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\csc.exe.config
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\csc.rsp
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\csi.exe
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\csi.exe.config
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\csi.rsp
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.AppContext.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Console.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Claims.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\vbc.exe
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\vbc.exe.config
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\vbc.rsp
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Antlr3.Runtime.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\EntityFramework.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\EntityFramework.SqlServer.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Newtonsoft.Json.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Owin.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Helpers.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Mvc.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Optimization.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Razor.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.WebPages.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\WebGrease.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Helpers.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Mvc.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Optimization.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.Razor.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.WebPages.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Newtonsoft.Json.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Antlr3.Runtime.pdb
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\EntityFramework.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\EntityFramework.SqlServer.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.Migrations.Initial.resources
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.dll
+C:\Users\Veronica\Downloads\ProiectDaw\Proiect\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Proiect.dll.config
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Proiect.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Proiect.pdb
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\csc.exe
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\csc.exe.config
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\csc.rsp
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\csi.exe
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\csi.exe.config
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\csi.rsp
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.AppContext.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Console.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\vbc.exe
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\vbc.exe.config
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\vbc.rsp
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Antlr3.Runtime.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\EntityFramework.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\EntityFramework.SqlServer.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Newtonsoft.Json.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Owin.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Helpers.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Mvc.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Optimization.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Razor.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\WebGrease.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Helpers.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Mvc.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Optimization.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.Razor.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Newtonsoft.Json.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Antlr3.Runtime.pdb
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\EntityFramework.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\EntityFramework.SqlServer.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.Migrations.Initial.resources
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.dll
+C:\Users\Stefania\Downloads\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Proiect.dll.config
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Proiect.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Proiect.pdb
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\csc.exe
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\csc.exe.config
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\csc.rsp
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\csi.exe
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\csi.exe.config
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\csi.rsp
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.AppContext.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Console.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.Compression.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Claims.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.ValueTuple.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\vbc.exe
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\vbc.exe.config
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\vbc.rsp
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Antlr3.Runtime.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\EntityFramework.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\EntityFramework.SqlServer.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Newtonsoft.Json.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Owin.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Helpers.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Mvc.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Optimization.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Razor.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Razor.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\WebGrease.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Helpers.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Mvc.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Optimization.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.Razor.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\System.Web.WebPages.Razor.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Newtonsoft.Json.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Antlr3.Runtime.pdb
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\EntityFramework.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\EntityFramework.SqlServer.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.Migrations.Initial.resources
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.dll
+C:\Users\Veronica\Downloads\Proiect (1)\Proiect (1)\Proiect\Proiect\obj\Debug\Proiect.pdb

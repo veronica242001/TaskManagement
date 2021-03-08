@@ -1,0 +1,39 @@
+﻿@model Proiect.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Editeaza utilizator";
+}
+<h2>Edit</h2>
+<div class="edit-proiect">
+    @using (Html.BeginForm(actionName: "Edit", controllerName: "Users", routeValues: new
+    { id = @Model.Id }))
+    {
+        @Html.HttpMethodOverride(HttpVerbs.Put)
+        <br />
+
+        @Html.Label("UserName", "Nume utilizator", new { @class = "" })
+        <br />
+        @Html.EditorFor(m => m.UserName)
+
+        <br />
+        @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })<br />
+
+        @Html.Label("Email", "Email utilizator", new { @class = "" })
+        <br />
+        @Html.EditorFor(m => m.Email)
+        <br />
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })<br />
+
+
+        <label>Selectati rolul:</label>
+        @Html.DropDownList("newRole", new SelectList(Model.AllRoles, "Value", "Text",
+       ViewBag.userRole), null, new { @class = "form-control" })
+        <br />
+        @Html.ValidationMessageFor(m => m.AllRoles, "", new { @class = "text-danger" }) <br />
+        <button class="btn btn-sm btn-default" type="submit">
+            Modifica datele
+            utilizatorului
+        </button>
+        <br /> <br />
+    }
+</div>
